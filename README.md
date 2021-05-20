@@ -1,2 +1,2 @@
 # geogame2
-
+This is the start of a geography game.  Right now it has 3 pages, plus a contact form page.  I use javaScript to loop through a collection of images upon user interaction.  I utilized Bootstrap and MDBootstrap for the design.  I tried many different web fonts, but I liked the default bootstrap font the best.  The image on the index page has audio, but it caused the video to stop working on some browsers, so I muted it to solve this problem.  I also utilized grid to make the site fully responsive.
